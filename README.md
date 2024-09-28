@@ -1,5 +1,5 @@
 >[!NOTE]  
->THIS IS NOT A DEV BRANCH!
+>THIS IS A DEV BRANCH!
 >
 >This is the 1.0.0 branch for the completed process. Currently this is still in development and not a fully working solution.
 >A blog post with notes and details is pending. 
