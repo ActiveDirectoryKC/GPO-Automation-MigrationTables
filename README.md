@@ -1,5 +1,12 @@
+>[!NOTE]  
+>THIS IS NOT A DEV BRANCH!
+>
+>This is the 1.0.0 branch for the completed process. Currently this is still in development and not a fully working solution.
+>A blog post with notes and details is pending. 
+>
+ 
 # GPO-Automation-MigrationTables
-This is a POC for a process showing how to use PowerShell, Group Policy, AD Group Policy Cmdlets, and Migration Tables to automate as much of what can be with Group Policy.
+This is a process for creating new Group Policies from a administrator designed template policy. This will use PowerShell and migration tables to swap User Rights Assignments and Restricted groups on a template group policy and import those values into a new policy that reflects the resolved entries. This is a limited automation and only handles one part of the automation pipeline.
 
 >[!WARNING]  
 >THIS IS NOT A COMPLETE SCRIPT! THIS IS A PROOF OF CONCEPT (AKA TEST, AKA IT DOESN'T WORK)!
